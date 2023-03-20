@@ -1,0 +1,46 @@
+Coach: davo2544
+Pokemon (HP Remaining)	K	D	+/-	L	DD	HPH	SP
+
+Manectric-Mega (0/100)
+0	1	-1	-0.14	101	0	0
+
+Dugtrio (0/100)
+1	1	0	0.63	76	0	0
+
+Ninetales-Alola (0/100)
+0	1	-1	-0.22	68	-33	0
+
+Sandaconda (0/100)
+0	1	-1	-1.30	162	38	0
+
+Urshifu-Rapid-Strike (0/100)
+0	1	-1	0.04	56	0	0
+
+Whirlipede (0/100)
+0	1	-1	-1.23	51	-50	0
+Total (0/600)	1	6	-5	-2.22	514	-45	0
+Self-Inflicted Deaths	0
+Times Switched	13
+Coach: theelkspeaks
+Pokemon (HP Remaining)	K	D	+/-	L	DD	HPH	SP
+
+Slowbro-Mega (9/100)
+3	0	3	-0.60	162	50	0
+
+Metagross (18/100)
+0	0	0	-0.94	108	0	0
+
+Virizion (0/100)
+2	1	1	1.26	82	-19	0
+
+Hawlucha (100/100)
+0	0	0	0.00	0	0	0
+
+Noivern (82/100)
+0	0	0	0.68	9	50	0
+
+Tapu Lele (0/100)
+1	1	0	1.82	194	42	0
+Total (209/600)	6	2	4	2.22	555	123	0
+Self-Inflicted Deaths	1
+Times Switched	6
